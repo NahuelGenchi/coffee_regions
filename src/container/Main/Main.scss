@@ -1,23 +1,30 @@
 .section-main {
-  .section-roasting {
+  .section-roasting-info {
+    margin-bottom: 0;
+    padding: 2.5rem 2rem;
+
     display: flex;
     flex-direction: column;
 
     background-color: var(--roasting-bg);
+    text-align: center;
+    letter-spacing: 0.05rem;
 
-    .sr-top {
-      text-align: center;
-      letter-spacing: 0.05rem;
-
-      h3 {
-        margin-bottom: 1.5rem;
-      }
-
-      p {
-        color: #938E89;
-        line-height: 1.5rem;
-        letter-spacing: 0.05rem;
-      }
+    h3 {
+      margin-bottom: 1.5rem;
     }
+
+    p {
+      color: #938E89;
+      line-height: 1.5rem;
+      letter-spacing: 0.05rem;
+    }
+  }
+
+  .section-roasting-details {
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
   }
 }

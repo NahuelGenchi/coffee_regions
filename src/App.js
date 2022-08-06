@@ -1,6 +1,8 @@
+import { Header } from "./container";
+
 function App() {
   return (
-    <></>
+    <Header/>
   );
 }
 

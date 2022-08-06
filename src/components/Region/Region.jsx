@@ -3,8 +3,6 @@ import { regionsData } from "../../mock/api";
 import "./Region.scss";
 
 const Region = () => {
-  console.log(regionsData);
-
   return(
     <>
       {

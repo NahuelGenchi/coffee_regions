@@ -3,8 +3,6 @@ import { roastData } from "../../mock/api";
 import "./Roast.scss";
 
 const Roast = () => {
-  console.log(roastData);
-
   return(
     <>
       {

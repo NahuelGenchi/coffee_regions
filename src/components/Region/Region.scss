@@ -1,0 +1,29 @@
+.region-container {
+  margin-bottom: 2rem;
+  padding: 2rem 0;
+  border-bottom: 1px solid rgb(219, 219, 219);
+
+  h2, p {
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    color: var(--region-title-color);
+  }
+
+  p {
+    color: var(--region-p-color);
+  }
+
+  a {
+    color: rgb(100, 100, 100);
+    font-weight: bold;
+    text-decoration: none;
+
+    transition: color 0.5s;
+
+    &:hover {
+      color: black;
+    }
+  }
+}

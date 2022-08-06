@@ -1,9 +1,12 @@
 .section-header {
   .section-container {
-    padding: 5rem 1.5rem;
+    padding: 10rem 1.5rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
 
     h1 {
       font-size: 2.7rem;
+      font-weight: 800;
+      text-align: center;
     }
   }
 }

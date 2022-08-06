@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coffee_regions/static/css/main.3e9e1acf.css",
+    "main.js": "/coffee_regions/static/js/main.dc343cda.js",
+    "static/media/header_background_desktop.jpg": "/coffee_regions/static/media/header_background_desktop.cd2e1f9c2f96552b7d98.jpg",
+    "static/media/header_background.jpg": "/coffee_regions/static/media/header_background.53e67ddca65a3bf909e4.jpg",
+    "index.html": "/coffee_regions/index.html",
+    "main.3e9e1acf.css.map": "/coffee_regions/static/css/main.3e9e1acf.css.map",
+    "main.dc343cda.js.map": "/coffee_regions/static/js/main.dc343cda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e9e1acf.css",
+    "static/js/main.dc343cda.js"
+  ]
+}

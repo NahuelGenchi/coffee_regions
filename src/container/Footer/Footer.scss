@@ -29,3 +29,14 @@
     }
   }
 }
+
+@media screen and (min-width: 530px) {
+  .section-footer {
+    .section-container {
+      padding: 3rem calc(10vw + 2rem);
+
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}

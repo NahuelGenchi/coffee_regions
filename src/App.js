@@ -1,8 +1,11 @@
-import { Header } from "./container";
+import { Header, Main } from "./container";
 
 function App() {
   return (
-    <Header/>
+    <>
+      <Header />
+      <Main />
+    </>
   );
 }
 

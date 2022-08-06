@@ -1,0 +1,23 @@
+.section-main {
+  .section-roasting {
+    display: flex;
+    flex-direction: column;
+
+    background-color: var(--roasting-bg);
+
+    .sr-top {
+      text-align: center;
+      letter-spacing: 0.05rem;
+
+      h3 {
+        margin-bottom: 1.5rem;
+      }
+
+      p {
+        color: #938E89;
+        line-height: 1.5rem;
+        letter-spacing: 0.05rem;
+      }
+    }
+  }
+}

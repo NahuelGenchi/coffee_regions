@@ -8,8 +8,11 @@
   font-size: 16px;
 
   --body-bg: #ECE3DA;
+  --roasting-bg: #FFF;
 }
 
 body {
   background-color: var(--body-bg);
+
+  letter-spacing: 0.10rem;
 }
